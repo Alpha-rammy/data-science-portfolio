@@ -7,17 +7,38 @@ As a Medical Doctor with a Master's in Public Health, I combine domain expertise
 
 This portfolio demonstrates an end-to-end approach to data science, covering data preparation, exploratory analysis, feature engineering, machine learning, model evaluation, and deployment-oriented development.
 
-🔹 RideWise – Customer Segmentation & Churn Prediction
- Tools: Python, Scikit-learn, XGBoost, FastAPI, MLflow, Docker
- An end-to-end machine learning project focused on understanding customer behaviour, identifying customer segments, and predicting churn within a mobility platform through advanced modelling and MLOps practices.
+01 | RideWise — Customer Segmentation & Churn Prediction
 
-🔹 TerraNova – Disaster Forecasting & Predictive Analytics
- Tools: Python, Predictive Modelling, Forecasting
- A forecasting project exploring historical patterns and predictive techniques to support disaster preparedness, planning, and decision-making.
+Tools: Python, Scikit-learn, XGBoost, FastAPI, MLflow, Docker
 
-🔹 CareBridge – Hospital Readmission Prediction
- Tools: Python, SQL, Machine Learning, Power BI
- A healthcare predictive analytics project focused on identifying patients at risk of hospital readmission within 30 days using classification models, feature engineering, and stakeholder-focused reporting.
+An end-to-end machine learning project analysing customer behaviour, developing customer segments, and predicting churn within a mobility platform.
+
+Key Competencies: Classification • Clustering • Feature Engineering • Model Evaluation • API Development • MLOps
+
+🔗 View RideWise Project:
+ https://github.com/Alpha-rammy/Ridewise_london
+
+02 | TerraNova — Disaster Cost Recovery & Forecasting
+
+Tools: Python, Predictive Analytics, Forecasting
+
+A disaster analytics project examining disaster-related costs and developing predictive approaches to support financial planning, cost recovery, and resource allocation.
+
+Key Competencies: Data Preprocessing • Forecasting • Predictive Modelling • Model Evaluation
+
+🔗 View TerraNova Project:
+ https://github.com/Alpha-rammy/terranova-disaster-cost-recovery
+
+03 | CareBridge — Hospital Readmission Intelligence
+
+Tools: Python, SQL, Machine Learning, Power BI
+
+A healthcare analytics project focused on identifying patients at risk of hospital readmission within 30 days to support clinical and operational decision-making.
+
+Key Competencies: Cohort Construction • Classification • Feature Engineering • Model Evaluation • Stakeholder Reporting
+
+🔗 View CareBridge Project:
+ https://github.com/Alpha-rammy/CareBridge_Readmission_intelligence
 
 Technical Skills
 
